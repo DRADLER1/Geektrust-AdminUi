@@ -1,0 +1,23 @@
+.del-sel-btn {
+  border-radius: 20px 20px 20px 20px !important;
+}
+
+.infoTable {
+  margin-top: 8px;
+}
+.search-bar {
+  width: 90% !important;
+  min-height: 20px !important;
+}
+
+.table-row {
+  background-color: rgb(231, 161, 243) !important;
+}
+.tt {
+  color: hsla(0, 7%, 22%, 0.852) !important;
+  font-weight: light !important;
+}
+.th{
+    font-size: 18px !important;
+}
+

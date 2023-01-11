@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&family=Roboto:wght@700&display=swap');
+
+.headers{
+    background-color: rgb(179, 11, 198) ;
+    min-height: 60px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+        margin: 0;
+}
+
+hr{
+    margin: 0;
+    color: aliceblue;
+}
+
+/* hsl(210,74%,11%) */
+/* hsl(210,100%,12%) */
+/* hsl(211,60%,19%)
+hsl(210,100%,50%) */
